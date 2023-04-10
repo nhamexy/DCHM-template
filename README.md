@@ -2,7 +2,7 @@
 
 # DCHM-template
 
-XX This is a template that was specifically designed to help students of the Digitising Cultural Heritage Materials (DCHM) course at the University of Borås publish their digitisation projects online with GitHub Pages. 
+This is a template that was specifically designed to help students of the Digitising Cultural Heritage Materials (DCHM) course at the University of Borås publish their digitisation projects online with GitHub Pages. 
 But it can be used by anyone who wants to try GitHub Pages to publishing a simple HTML-based website.
 
 🚀[Visit the Website](https://sslis.github.io/DCHM-template/) if you want to see what the published version of this repository looks like.
